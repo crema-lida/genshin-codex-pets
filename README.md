@@ -90,8 +90,8 @@
     </tr>
     <tr>
       <td><img src="assets/idle/sandrone.png" width="64" alt="Sandrone idle"></td>
-      <td>Sandrone</td>
-      <td>Chibi sticker-style Sandrone pet based strictly on the provided character and style references.</td>
+      <td>Sandrone / 桑多涅</td>
+      <td>Sandrone for mechanical precision.</td>
     </tr>
   </tbody>
 </table>
