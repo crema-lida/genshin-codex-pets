@@ -91,7 +91,7 @@
     <tr>
       <td><img src="assets/idle/sandrone.png" width="64" alt="Sandrone idle"></td>
       <td>Sandrone / 桑多涅</td>
-      <td>Sandrone for mechanical precision.</td>
+      <td>Sandrone for guarded devotion.</td>
     </tr>
   </tbody>
 </table>
