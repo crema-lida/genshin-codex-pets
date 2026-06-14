@@ -1,6 +1,6 @@
 # Genshin Codex Pets
 
-| Idle | Name | Description |
+| Preview | Name | Description |
 | --- | --- | --- |
 | <img src="assets/idle/Arabalika.png" width="64" alt="Arabalika idle"> | Arabalika | Arabalika for fearless cleanup. |
 | <img src="assets/idle/Araja.png" width="64" alt="Araja idle"> | Araja | Araja for sheltering dreams. |
